@@ -1,1 +1,0 @@
-# chat-app-k8s-deployment
