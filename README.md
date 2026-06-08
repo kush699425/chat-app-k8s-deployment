@@ -179,13 +179,13 @@ kubectl port-forward -n chat-app service/frontend 8080:80
 <div align="center">
 
 ### ✅ All Pods Running
-![Pods Running](screenshots/pods.png)
+![Pods Running](Screenshots/pods.png)
 
 ### 🌐 Services
-![Services](screenshots/services.png)
+![Services](Screenshots/services.png)
 
 ### 💬 Live App
-![App Running](screenshots/app.png)
+![App Running](Screenshots/app.png)
 
 </div>
 
